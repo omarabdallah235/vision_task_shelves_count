@@ -10,12 +10,12 @@ This project leverages the YOLO v8 model for efficient product detection and cou
 ![image](https://github.com/omarabdallah235/vision_task_shelves_count/blob/main/validation/results.png)
 
 <p float="left">
-  <img src="https://github.com/omarabdallah235/vision_task_shelves_count/blob/main/validation/F1_curve.png" width="500"/>
-  <img src="https://github.com/omarabdallah235/vision_task_shelves_count/blob/main/validation/PR_curve.png" width="500" /> 
-  <img src="https://github.com/omarabdallah235/vision_task_shelves_count/blob/main/validation/P_curve.png" width="500" />
-  <img src="https://github.com/omarabdallah235/vision_task_shelves_count/blob/main/validation/R_curve.png" width="500" />
-  <img src="https://github.com/omarabdallah235/vision_task_shelves_count/blob/main/validation/confusion_matrix.png" width="500" />
-  <img src="https://github.com/omarabdallah235/vision_task_shelves_count/blob/main/validation/confusion_matrix_normalized.png" width="500" />
+  <img src="https://github.com/omarabdallah235/vision_task_shelves_count/blob/main/validation/F1_curve.png" width="300"/>
+  <img src="https://github.com/omarabdallah235/vision_task_shelves_count/blob/main/validation/PR_curve.png" width="300" /> 
+  <img src="https://github.com/omarabdallah235/vision_task_shelves_count/blob/main/validation/P_curve.png" width="300" />
+  <img src="https://github.com/omarabdallah235/vision_task_shelves_count/blob/main/validation/R_curve.png" width="300" />
+  <img src="https://github.com/omarabdallah235/vision_task_shelves_count/blob/main/validation/confusion_matrix.png" width="300" />
+  <img src="https://github.com/omarabdallah235/vision_task_shelves_count/blob/main/validation/confusion_matrix_normalized.png" width="300" />
 </p>
 
 # Setup and Installation
