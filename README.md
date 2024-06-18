@@ -36,7 +36,7 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 Create a requirements.txt file in your project directory with the following contents:
 
 ```
-yolov8
+ultralytics
 numpy
 opencv-python
 torch
@@ -53,7 +53,7 @@ pip install -r requirements.txt
 
 # Step 4: Download the Model Files
 Download the YOLO v8 model files in your desired formats (.pt, .onnx, and .trt) and place them in a directory named models within your project directory.
-
+[download Here](https://drive.google.com/drive/folders/1YUcAVjZ3XgBaITGUw5GGTCZq8tATyRUE?usp=sharing)
 # Step 5: Create the run_model.py Script
 Create a file named run_model.py in your project directory and add the following code:
 
