@@ -9,7 +9,7 @@ This project leverages the YOLO v8 model for efficient product detection and cou
 ![image](https://github.com/omarabdallah235/vision_task_shelves_count/blob/main/validation/validation.png)
 ![image](https://github.com/omarabdallah235/vision_task_shelves_count/blob/main/validation/results.png)
 
-<p float="left">
+<p float="center">
   <img src="https://github.com/omarabdallah235/vision_task_shelves_count/blob/main/validation/F1_curve.png" width="300"/>
   <img src="https://github.com/omarabdallah235/vision_task_shelves_count/blob/main/validation/PR_curve.png" width="300" /> 
   <img src="https://github.com/omarabdallah235/vision_task_shelves_count/blob/main/validation/P_curve.png" width="300" />
